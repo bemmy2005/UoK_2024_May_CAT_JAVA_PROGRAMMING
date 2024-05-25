@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="question1/Temperature.java|question2/TestExercise.java|question3/question2/Measurement.java|question3/question2/Width.java|question3/question2/Volume.java|question3/question2/Testquestion2.java|question3/java/|question3/question2/Length.java|question3/|question4/Circle.java|question4/Testcircle.java|question4/" kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/OSGi%Minimum-1.2"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
